@@ -1,10 +1,10 @@
-### Multi Vendoe E-commerce 
+## Multi Vendoe E-commerce 
 
-## Admin dashboard:
+### Admin dashboard:
 -CRUD & trash & filter (category - brand - products)
 -CRUD options 
 -Delete multi items 
-## Vendor dashboard:
+### Vendor dashboard:
 -CRUD & filter & trash products 
 -Product Barcode 
 -Delete multi items 
@@ -18,7 +18,7 @@
 - send notifications when new order was created , (email - database ) notification.
 - delete all expired offers using prunable .
 
-## Website:
+### Website:
 - in home page show ( featured products - best selling - new products).
 
 - sort products by name & price (ajax).
@@ -31,9 +31,9 @@
 - show store profile with the ability to download (shipping - return) policy.
 - confirmation email.
 - login with (GitHub , Google).
-## Using: 
+### Using: 
 Laravel ( service -  trait - events/listener - observe - custom rule - Mail - Notifications - components - form request - schedule).
-## Package: 
+### Package: 
 -Fortify package .
 - spatie media.
 - commentify.
